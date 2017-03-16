@@ -1,0 +1,26 @@
+{
+  "name": "webrtcvideorecording",
+  "version": "1.0.0",
+  "description": "A node js based component to record webrtc based video conferences",
+  "main": "init.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pramod-kumar-para/WEBRTC-Video-Recording.git"
+  },
+  "keywords": [
+    "webrtc-video-recorder"
+  ],
+  "author": "Pramod Kumar Para",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pramod-kumar-para/WEBRTC-Video-Recording/issues"
+  },
+  "homepage": "https://github.com/pramod-kumar-para/WEBRTC-Video-Recording#readme"
+}
